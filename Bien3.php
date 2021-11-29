@@ -4,3 +4,4 @@ $class = 2;
 
 echo $return."\n";
 echo$class."\n";
+echo$class."\n";
